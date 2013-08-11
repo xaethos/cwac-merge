@@ -1,0 +1,3 @@
+[submodule "cwac-sacklist"]
+	path = cwac-sacklist
+	url = git://github.com/xaethos/cwac-sacklist.git
